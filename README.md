@@ -52,3 +52,4 @@ export default tseslint.config({
 "# Gaming-Website" 
 "# Gamez" 
 "# Gamez" 
+"# Gamez" 
